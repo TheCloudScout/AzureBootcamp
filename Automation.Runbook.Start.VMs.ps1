@@ -1,4 +1,4 @@
-Workflow StartLuts {
+Workflow StartVMs {
     
   #Variabelen
   $SubscriptionId = "<SUBSCRIPTION ID>"
