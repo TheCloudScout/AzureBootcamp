@@ -1,7 +1,7 @@
 Workflow StartVMs {
     
   #Variabelen
-  $SubscriptionId = "<SUBSCRIPTION ID>"
+  $SubscriptionId = "ad1d865d-b402-44f3-aa03-16a03f00b2f7"
   $VMsResourceGroup = "<RESOURCE GROUP NAME OF VMS>"
   $AutomationAccount = "<AUTOMATION ACCOUNT NAME>"
   $AutomationAccountRG = "<RESROUCE GROUP NAME OF AUTOMATION ACCOUNT>"
