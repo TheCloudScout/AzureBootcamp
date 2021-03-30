@@ -6,5 +6,6 @@ This Github repo will be used for distributing content to participants joining o
 _These files **do not** contain any copyrighted contents._
 
 For questions please contact me.
-+ koos.goossens@cfit.nl
++ koos@lenswork.nl
++ koos.goossens@wortell.nl
 + @koosgoossens
